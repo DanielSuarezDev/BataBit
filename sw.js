@@ -1,8 +1,7 @@
 const CACHE_NAME = 'v1_cache_Bata_Bit',
   urlsToCache = [
     './',
-    'https://fonts.googleapis.com/css?family=Raleway:400,700',
-    './assets/css/style.css',
+    'assets/css/style.css',
     './script.js',
     './assets/imgs/logotipo.svg',
     './assets/icons/patata.svg'
