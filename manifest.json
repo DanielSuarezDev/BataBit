@@ -6,12 +6,14 @@
   "theme_color": "#f7931a",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "./index.html?utm_source=web_app_manifest",
-  "scope": "./index.html",
+  "start_url": "./Index.html",
+  "scope": "./",
   "lang": "es-MX",
-  "icons": [{
-    "src": "./assets/imgs/logotipo.svg",
-    "sizes": "1024x1024",
-    "type": "imgs/svg"
-  }]
+  "icons": [
+    {
+      "src": "./assets/imgs/logotipo.svg",
+      "sizes": "1024x1024",
+      "type": "imgs/svg"
+    }
+  ]
 }

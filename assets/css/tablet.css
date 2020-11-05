@@ -1,0 +1,20 @@
+.header-title-container h1 {
+  font-size: 3.6rem;
+  line-height: 3.4rem;
+}
+
+.main-tables-container {
+  width: 930px;
+  margin: 0 auto;
+}
+
+.product-cards--container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 930px;
+  margin: 0 auto;
+}
+
+.plans-container--slider {
+  justify-content: center;
+}
