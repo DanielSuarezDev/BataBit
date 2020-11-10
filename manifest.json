@@ -1,6 +1,6 @@
 {
   "name": "Bata Bit",
-  "short_name": "Bata Bit", //lo que aparece abajo del icono
+  "short_name": "Bata Bit",
   "description": "Bienvenid@s a Bata Bit,",
   "background_color": "#000",
   "theme_color": "#f7931a",
@@ -9,9 +9,11 @@
   "start_url": "./Index.html",
   "scope": "./",
   "lang": "es-MX",
-  "icons": [{
-    "src": "./assets/imgs/logotipo.svg",
-    "sizes": "1024x1024",
-    "type": "imgs/svg"
-  }]
+  "icons": [
+    {
+      "src": "./assets/imgs/logotipo.svg",
+      "sizes": "1024x1024",
+      "type": "imgs/svg"
+    }
+  ]
 }
