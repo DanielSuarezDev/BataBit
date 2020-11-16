@@ -1,7 +1,7 @@
 const CACHE_NAME = 'v1_cache_Bata_Bit',
   urlsToCache = [
     './',
-    'assets/css/style.css',
+    './assets/css/style.css',
     './script.js',
     './assets/imgs/logotipo.svg',
     './assets/icons/patata.svg'
