@@ -8,12 +8,13 @@
   "display": "standalone",
   "start_url": "./",
   "scope": "./",
-  "lang": "es-MX",
+  "lang": "es",
   "icons": [
     {
       "src": "./assets/imgs/logotipo.svg",
       "sizes": "1024x1024",
-      "type": "imgs/svg"
+      "type": "imgs/svg",
+      "purpose": "any maskable"
     }
   ]
 }
